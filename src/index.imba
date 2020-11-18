@@ -1,2 +1,2 @@
-import {Home} from './components/homepage/main'
+import {Home} from './components/site/Index'
 imba.mount <Home>
